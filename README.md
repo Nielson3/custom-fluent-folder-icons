@@ -14,7 +14,7 @@ A collection of custom SVG icons I made in InkScape, based on the [Fluent Icon T
 
 | Obsidian | Obsidian Exports | Obsidian Imports |  TinyMediaManager |
 | :---: | :---: | :---: | :---: |
-| ![Obsidian Vault](./icons/custom-folder-obsidian.svg) | ![Obsidian Exports](./icons/custom-folder-obsidian-exports.svg) | ![Obsidian Imports](./icons/custom-folder-obsidian-imports.svg) | ![Python](./icons/custom-folder-python.svg) | ![TinyMediaManager](./icons/custom-folder-ttm.svg) |
+| ![Obsidian Vault](./icons/custom-folder-obsidian.svg) | ![Obsidian Exports](./icons/custom-folder-obsidian-exports.svg) | ![Obsidian Imports](./icons/custom-folder-obsidian-imports.svg) | ![TinyMediaManager](./icons/custom-folder-ttm.svg) |
 
 ## Download
 Click on the icon you want, or zip the entire icons directory to download them all. 
