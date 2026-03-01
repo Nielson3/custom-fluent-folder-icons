@@ -4,21 +4,17 @@ A collection of custom SVG icons I made in InkScape, based on the [Fluent Icon T
 
 ## Preview
 
-| Art | Dropbox | Fonts | Google Drive |
-| :---: | :---: | :---: | :---: |
-| ![Art](./icons/custom-folder-art.svg) | ![Dropbox](./icons/custom-folder-dropbox.svg) | ![Fonts](./icons/custom-folder-fonts.svg) | ![Google Drive](./icons/custom-folder-google-drive.svg) |
+| Art | Dropbox | Fonts | Google Drive | Writing |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Art](./icons/custom-folder-art.svg) | ![Dropbox](./icons/custom-folder-dropbox.svg) | ![Fonts](./icons/custom-folder-fonts.svg) | ![Google Drive](./icons/custom-folder-google-drive.svg) | ![Writing](./icons/custom-folder-writing.svg) |
 
-| HakuNeko | MuseScore | Personal | TinyMediaManager |
-| :---: | :---: | :---: | :---: |
-| ![Hakuneko](./icons/custom-folder-hakuneko.svg) | ![MuseScore](./icons/custom-folder-musescore.svg) | ![Personal](./icons/custom-folder-personal.svg) | ![TinyMediaManager](./icons/custom-folder-ttm.svg) |
+| HakuNeko | MuseScore | Personal | Python |  XnConvert |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Hakuneko](./icons/custom-folder-hakuneko.svg) | ![MuseScore](./icons/custom-folder-musescore.svg) | ![Personal](./icons/custom-folder-personal.svg) |  ![Python](./icons/custom-folder-python.svg) | ![XnConvert](./icons/custom-folder-xnconvert.svg) |
 
-| Obsidian | Obsidian Exports | Obsidian Imports | Python |
+| Obsidian | Obsidian Exports | Obsidian Imports |  TinyMediaManager |
 | :---: | :---: | :---: | :---: |
-| ![Obsidian Vault](./icons/custom-folder-obsidian.svg) | ![Obsidian Exports](./icons/custom-folder-obsidian-exports.svg) | ![Obsidian Imports](./icons/custom-folder-obsidian.svg) | ![Python](./icons/custom-folder-python.svg) |
-
-| Writing | XnConvert | 
-| :---: | :---: | 
-| ![Writing](./icons/custom-folder-writing.svg) | ![XnConvert](./icons/custom-folder-xnconvert.svg) | 
+| ![Obsidian Vault](./icons/custom-folder-obsidian.svg) | ![Obsidian Exports](./icons/custom-folder-obsidian-exports.svg) | ![Obsidian Imports](./icons/custom-folder-obsidian-imports.svg) | ![Python](./icons/custom-folder-python.svg) | ![TinyMediaManager](./icons/custom-folder-ttm.svg) |
 
 ## Download
 Click on the icon you want, or zip the entire icons directory to download them all. 
