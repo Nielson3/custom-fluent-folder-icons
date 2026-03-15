@@ -8,9 +8,9 @@ A collection of custom SVG icons I made in InkScape, based on the [Fluent Icon T
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | ![Art](./icons/custom-folder-art.svg) | ![Dropbox](./icons/custom-folder-dropbox.svg) | ![Fonts](./icons/custom-folder-fonts.svg) | ![Google Drive](./icons/custom-folder-google-drive.svg) | ![Writing](./icons/custom-folder-writing.svg) | ![Emulation](./icons/custom-folder-emulation.svg) |
 
-| HakuNeko | MuseScore | Personal | Python |  XnConvert |
-| :---: | :---: | :---: | :---: | :---: |
-| ![Hakuneko](./icons/custom-folder-hakuneko.svg) | ![MuseScore](./icons/custom-folder-musescore.svg) | ![Personal](./icons/custom-folder-personal.svg) |  ![Python](./icons/custom-folder-python.svg) | ![XnConvert](./icons/custom-folder-xnconvert.svg) |
+| melonDS | mGBA | HakuNeko | MuseScore | Personal | Python |  XnConvert |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![melonDS](./icons/custom-folder-MelonDS.svg) | ![mGBA](./icons/custom-folder-mGBA.svg) | ![Hakuneko](./icons/custom-folder-hakuneko.svg) | ![MuseScore](./icons/custom-folder-musescore.svg) | ![Personal](./icons/custom-folder-personal.svg) |  ![Python](./icons/custom-folder-python.svg) | ![XnConvert](./icons/custom-folder-xnconvert.svg) |
 
 | Obsidian | Obsidian Exports | Obsidian Imports |  TinyMediaManager |
 | :---: | :---: | :---: | :---: |
