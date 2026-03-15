@@ -4,9 +4,9 @@ A collection of custom SVG icons I made in InkScape, based on the [Fluent Icon T
 
 ## Preview
 
-| Art | Dropbox | Fonts | Google Drive | Writing |
-| :---: | :---: | :---: | :---: | :---: |
-| ![Art](./icons/custom-folder-art.svg) | ![Dropbox](./icons/custom-folder-dropbox.svg) | ![Fonts](./icons/custom-folder-fonts.svg) | ![Google Drive](./icons/custom-folder-google-drive.svg) | ![Writing](./icons/custom-folder-writing.svg) |
+| Art | Dropbox | Fonts | Google Drive | Writing | Emulation |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Art](./icons/custom-folder-art.svg) | ![Dropbox](./icons/custom-folder-dropbox.svg) | ![Fonts](./icons/custom-folder-fonts.svg) | ![Google Drive](./icons/custom-folder-google-drive.svg) | ![Writing](./icons/custom-folder-writing.svg) | ![Emulation](./icons/custom-folder-emulation.svg) |
 
 | HakuNeko | MuseScore | Personal | Python |  XnConvert |
 | :---: | :---: | :---: | :---: | :---: |
