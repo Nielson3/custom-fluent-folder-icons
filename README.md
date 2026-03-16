@@ -20,4 +20,4 @@ A collection of custom SVG icons I made in InkScape, based on the [Fluent Icon T
 Click on the icon you want, or zip the entire icons directory to download them all. 
 
 ## ⚖️ License & Credits
-This project is licensed under the **GNU General Public License v3.0**, which means you can freely share and modify these icons, provided that they remain under the GPL v3 license.
+This project is licensed under the **GNU General Public License v3.0**, which means you can freely share and modify these icons, provided that they remain under the GPL v3 license. 
