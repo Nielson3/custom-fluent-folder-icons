@@ -12,12 +12,12 @@ A collection of custom SVG icons I made in InkScape, based on the [Fluent Icon T
 ### Media
 | Jellyfin | Spotify | YouTube | Movies | HakuNeko | Torrents |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![Jellyfin](./icons/custom-folder-jellyfin.svg) | ![Spotify](./icons/custom-folder-spotify.svg) | ![YouTube](./icons/custom-folder-youtube.svg) | ![Movies](./icons/custom-folder-movies.svg) | ![HakuNeko](./icons/custom-folder-hakuneko.svg) |  ![Torrents](./icons/custom-folder-torrents.svg) |
+| ![Jellyfin](./icons/custom-folder-jellyfin.svg) | ![Spotify](./icons/custom-folder-spotify.svg) | ![YouTube](./icons/custom-folder-youtube.svg) | ![Movies](./icons/custom-folder-movies.svg) | ![HakuNeko](./icons/custom-folder-hakuneko.svg) |  ![Torrents](./icons/custom-folder-torrent.svg) |
 
 ### Storage
 | Dropbox | GoogleDrive | Obsidian | Obs. Exports | Obs. Imports |
 | :---: | :---: | :---: | :---: | :---: |
-| ![Dropbox](./icons/custom-folder-dropbox.svg) | ![Googledrive](./icons/custom-folder-obsidian-googledrive.svg) | ![Obsidian](./icons/custom-folder-obsidian.svg) | ![Obsidian Exports](./icons/custom-folder-obsidian-exports.svg) | ![Obsidian Imports](./icons/custom-folder-obsidian-imports.svg) |
+| ![Dropbox](./icons/custom-folder-dropbox.svg) | ![Googledrive](./icons/custom-folder-obsidian-google-drive.svg) | ![Obsidian](./icons/custom-folder-obsidian.svg) | ![Obsidian Exports](./icons/custom-folder-obsidian-exports.svg) | ![Obsidian Imports](./icons/custom-folder-obsidian-imports.svg) |
 
 ### Gaming
 | Steam | Emulation | melonDS | mGBA | Pokemon |
@@ -27,7 +27,7 @@ A collection of custom SVG icons I made in InkScape, based on the [Fluent Icon T
 ### Other
 | Personal | XnConvert |  Python |  TinyMediaManager |
 | :---: | :---: | :---: | :---: |
-| ![Personal](./icons/custom-folder-personal.svg) | ![XnConvert](./icons/custom-folder-obsidian-xnconvert.svg) | ![Python](./icons/custom-folder-obsidian-python.svg) | ![TinyMediaManager](./icons/custom-folder-ttm.svg) |
+| ![Personal](./icons/custom-folder-personal.svg) | ![XnConvert](./icons/custom-folder-xnconvert.svg) | ![Python](./icons/custom-folder-python.svg) | ![TinyMediaManager](./icons/custom-folder-ttm.svg) |
 
 ## Download
 Click on the icon you want, or zip the entire icons directory to download them all. 
