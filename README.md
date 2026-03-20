@@ -17,7 +17,7 @@ A collection of custom SVG icons I made in InkScape, based on the [Fluent Icon T
 ### Storage
 | Dropbox | GoogleDrive | Obsidian | Obs. Exports | Obs. Imports |
 | :---: | :---: | :---: | :---: | :---: |
-| ![Dropbox](./icons/custom-folder-dropbox.svg) | ![Googledrive](./icons/custom-folder-obsidian-google-drive.svg) | ![Obsidian](./icons/custom-folder-obsidian.svg) | ![Obsidian Exports](./icons/custom-folder-obsidian-exports.svg) | ![Obsidian Imports](./icons/custom-folder-obsidian-imports.svg) |
+| ![Dropbox](./icons/custom-folder-dropbox.svg) | ![GoogleDrive](./icons/custom-folder-google-drive.svg) | ![Obsidian](./icons/custom-folder-obsidian.svg) | ![Obsidian Exports](./icons/custom-folder-obsidian-exports.svg) | ![Obsidian Imports](./icons/custom-folder-obsidian-imports.svg) |
 
 ### Gaming
 | Steam | Emulation | melonDS | mGBA | Pokemon |
