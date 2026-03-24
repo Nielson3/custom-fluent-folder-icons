@@ -27,7 +27,7 @@ A collection of custom SVG icons I made in InkScape, based on the [Fluent Icon T
 ### Other
 | Personal | XnConvert |  Python | Reddit | TinyMediaManager |
 | :---: | :---: | :---: | :---: | :---: |
-| ![Personal](./icons/custom-folder-personal.svg) | ![XnConvert](./icons/custom-folder-xnconvert.svg) | ![Python](./icons/custom-folder-python.svg) | ![Reddit](./icons/custom-folder-reddit.svg) |![TinyMediaManager](./icons/custom-folder-ttm.svg) |
+| ![Personal](./icons/custom-folder-personal.svg) | ![XnConvert](./icons/custom-folder-xnconvert.svg) | ![Python](./icons/custom-folder-python.svg) | ![Reddit](./icons/custom-folder-reddit.svg) |![TinyMediaManager](./icons/custom-folder-tmm.svg) |
 
 ## Download
 Click on the icon you want, or zip the entire icons directory to download them all. 
