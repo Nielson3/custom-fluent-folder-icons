@@ -29,10 +29,17 @@ A collection of custom SVG icons I made in InkScape, based on the [Fluent Icon T
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ![Personal](./icons/custom-folder-personal.svg) | ![XnConvert](./icons/custom-folder-xnconvert.svg) | ![Python](./icons/custom-folder-python.svg) | ![Reddit](./icons/custom-folder-reddit.svg) | ![FreeCAD](./icons/custom-folder-freecad.svg) | ![GitHub](./icons/custom-folder-github.svg) | ![TinyMediaManager](./icons/custom-folder-tmm.svg) |
 
-### Colors & Patterns
-| Rainbow | Mondrian |
-| :---: | :---: |
-| ![Rainbow](./icons/custom-folder-rainbow.svg) | ![Mondrian](./icons/custom-folder-mondrian.svg) |
+### Colors
+The default folder colors in the Fluent theme are: blue, red, yellow, purple, pink, orange, grey, and green. Here are some others:
+
+| aurora | cyan | frost | grass | lemon | sand | solarized | teal | wine |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Aurora](./icons/custom-folder-aurora.svg) |  ![cyan](./icons/custom-folder-cyan.svg) | ![frost](./icons/custom-folder-frost.svg) | ![grass](./icons/custom-folder-grass.svg) | ![lemon](./icons/custom-folder-lemon.svg) | ![sand](./icons/custom-folder-sand.svg) | ![Comics](./icons/custom-folder-solarized.svg) | ![teal](./icons/custom-folder-teal.svg) | ![wine](./icons/custom-folder-wine.svg) |
+
+### Colors & Patterns (experimental)
+| Rainbow | Mondrian | Chess | Camouflage |
+| :---: | :---: | :---: | :---: |
+| ![Rainbow](./icons/custom-folder-rainbow.svg) | ![Mondrian](./icons/custom-folder-mondrian.svg) | ![Chess](./icons/custom-folder-chess.svg) | ![Camouflage](./icons/custom-folder-camouflage.svg) |
 
 ## Download
 Click on the icon you want, or zip the entire icons directory to download them all. 
