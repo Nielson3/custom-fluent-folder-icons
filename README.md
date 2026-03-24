@@ -30,7 +30,7 @@ A collection of custom SVG icons I made in InkScape, based on the [Fluent Icon T
 | ![Personal](./icons/custom-folder-personal.svg) | ![XnConvert](./icons/custom-folder-xnconvert.svg) | ![Python](./icons/custom-folder-python.svg) | ![Reddit](./icons/custom-folder-reddit.svg) | ![FreeCAD](./icons/custom-folder-freecad.svg) | ![GitHub](./icons/custom-folder-github.svg) | ![TinyMediaManager](./icons/custom-folder-tmm.svg) |
 
 ### Colors & Patterns
-| Personal | XnConvert |
+| Rainbow | Mondrian |
 | :---: | :---: |
 | ![Rainbow](./icons/custom-folder-rainbow.svg) | ![Mondrian](./icons/custom-folder-mondrian.svg) |
 
