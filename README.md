@@ -9,10 +9,15 @@ A collection of custom SVG icons I made in InkScape, based on the [Fluent Icon T
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ![Art](./icons/custom-folder-art.svg) |  ![Fonts](./icons/custom-folder-fonts.svg) | ![Writing](./icons/custom-folder-writing.svg) | ![MuseScore](./icons/custom-folder-musescore.svg) | ![GIMP](./icons/custom-folder-gimp.svg) | ![Blender](./icons/custom-folder-blender.svg) | ![Comics](./icons/custom-folder-comic.svg) | ![Manga](./icons/custom-folder-manga.svg) | ![Brushes](./icons/custom-folder-brushes.svg) |
 
-### Media
+### Media 1
 | Jellyfin | Spotify | MusicBee | YouTube | Movies | Books | Music | HakuNeko | Torrents |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ![Jellyfin](./icons/custom-folder-jellyfin.svg) | ![Spotify](./icons/custom-folder-spotify.svg) |  ![MusicBee](./icons/custom-folder-musicbee.svg) |![YouTube](./icons/custom-folder-youtube.svg) | ![Movies](./icons/custom-folder-movies.svg) | ![Books](./icons/custom-folder-books.svg) | ![Music](./icons/custom-folder-music.svg) | ![HakuNeko](./icons/custom-folder-hakuneko.svg) |  ![Torrents](./icons/custom-folder-torrent.svg) |
+
+### Media 2
+| Music | HakuNeko | Torrents | Calibre | TinyMediaManager |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Music](./icons/custom-folder-music.svg) | ![HakuNeko](./icons/custom-folder-hakuneko.svg) |  ![Torrents](./icons/custom-folder-torrent.svg) | ![Calibre](./icons/custom-folder-calibre.svg) | ![TinyMediaManager](./icons/custom-folder-tmm.svg) |
 
 ### Storage
 | Dropbox | GoogleDrive | Obsidian | Obs. Exports | Obs. Imports |
@@ -25,9 +30,9 @@ A collection of custom SVG icons I made in InkScape, based on the [Fluent Icon T
 | ![Steam](./icons/custom-folder-steam.svg) | ![Emulation](./icons/custom-folder-emulation.svg) | ![MelonDS](./icons/custom-folder-MelonDS.svg) | ![mGBA](./icons/custom-folder-mGBA.svg) | ![Pokemon](./icons/custom-folder-pokemon.svg) |
 
 ### Other
-| Personal | XnConvert |  Python | Reddit | FreeCAD | GitHub | TinyMediaManager |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![Personal](./icons/custom-folder-personal.svg) | ![XnConvert](./icons/custom-folder-xnconvert.svg) | ![Python](./icons/custom-folder-python.svg) | ![Reddit](./icons/custom-folder-reddit.svg) | ![FreeCAD](./icons/custom-folder-freecad.svg) | ![GitHub](./icons/custom-folder-github.svg) | ![TinyMediaManager](./icons/custom-folder-tmm.svg) |
+| Personal | XnConvert |  Python | Reddit | FreeCAD | GitHub | Temporary |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Personal](./icons/custom-folder-personal.svg) | ![XnConvert](./icons/custom-folder-xnconvert.svg) | ![Python](./icons/custom-folder-python.svg) | ![Reddit](./icons/custom-folder-reddit.svg) | ![FreeCAD](./icons/custom-folder-freecad.svg) | ![GitHub](./icons/custom-folder-github.svg) | ![Temporary](./icons/custom-folder-temporary.svg) |
 
 ### Colors
 The default folder colors in the Fluent theme are: blue, red, yellow, purple, pink, orange, grey, and green. Here are some others:
