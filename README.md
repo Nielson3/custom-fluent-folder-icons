@@ -31,7 +31,7 @@ A collection of custom SVG icons I made in InkScape, based on the [Fluent Icon T
 
 ### Other
 | Personal | XnConvert |  Python | Reddit | FreeCAD | GitHub | Temporary |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ![Personal](./icons/custom-folder-personal.svg) | ![XnConvert](./icons/custom-folder-xnconvert.svg) | ![Python](./icons/custom-folder-python.svg) | ![Reddit](./icons/custom-folder-reddit.svg) | ![FreeCAD](./icons/custom-folder-freecad.svg) | ![GitHub](./icons/custom-folder-github.svg) | ![Temporary](./icons/custom-folder-temporary.svg) |
 
 ### Colors
