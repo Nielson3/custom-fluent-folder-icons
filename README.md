@@ -25,9 +25,9 @@ A collection of custom SVG icons I made in InkScape, based on the [Fluent Icon T
 | ![Books](./icons/custom-folder-books.svg) | ![Calibre](./icons/custom-folder-calibre.svg) | ![Torrents](./icons/custom-folder-torrent.svg) | ![HakuNeko](./icons/custom-folder-hakuneko.svg) | ![Comics](./icons/custom-folder-comic.svg) | ![Manga](./icons/custom-folder-manga.svg) |
 
 ### Storage
-| Dropbox | GoogleDrive | ProtonDrive | Obsidian | Obs. import | Obs. export |
+| Dropbox | ProtonDrive |GoogleDrive | Obsidian | Obs. import | Obs. export |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![Dropbox](./icons/custom-folder-dropbox.svg) | ![GoogleDrive](./icons/custom-folder-google-drive.svg) | ![ProtonDrive](./icons/custom-folder-protondrive.svg) | ![Obsidian](./icons/custom-folder-obsidian.svg) | ![Obs. import](./icons/custom-folder-obsidian-imports.svg) | ![Obs. export](./icons/custom-folder-obsidian-exports.svg) |
+| ![Dropbox](./icons/custom-folder-dropbox.svg) | ![ProtonDrive](./icons/custom-folder-protondrive.svg) | ![GoogleDrive](./icons/custom-folder-google-drive.svg) | ![Obsidian](./icons/custom-folder-obsidian.svg) | ![Obs. import](./icons/custom-folder-obsidian-imports.svg) | ![Obs. export](./icons/custom-folder-obsidian-exports.svg) |
 
 ### Gaming
 | Games | Steam | Unity | Emulation | MelonDS | mGBA | Pokemon |
