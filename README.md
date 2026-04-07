@@ -10,14 +10,14 @@ A collection of custom SVG icons I made in InkScape, based on the [Fluent Icon T
 | ![Art](./icons/custom-folder-art.svg) |  ![Fonts](./icons/custom-folder-fonts.svg) | ![Writing](./icons/custom-folder-writing.svg) | ![MuseScore](./icons/custom-folder-musescore.svg) | ![GIMP](./icons/custom-folder-gimp.svg) | ![Blender](./icons/custom-folder-blender.svg) | ![Comics](./icons/custom-folder-comic.svg) | ![Manga](./icons/custom-folder-manga.svg) | ![Brushes](./icons/custom-folder-brushes.svg) |
 
 ### Media 1
-| Jellyfin | Spotify | MusicBee | YouTube | Movies | Books | Music | HakuNeko | Torrents |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![Jellyfin](./icons/custom-folder-jellyfin.svg) | ![Spotify](./icons/custom-folder-spotify.svg) |  ![MusicBee](./icons/custom-folder-musicbee.svg) |![YouTube](./icons/custom-folder-youtube.svg) | ![Movies](./icons/custom-folder-movies.svg) | ![Books](./icons/custom-folder-books.svg) | ![Music](./icons/custom-folder-music.svg) | ![HakuNeko](./icons/custom-folder-hakuneko.svg) |  ![Torrents](./icons/custom-folder-torrent.svg) |
+| Jellyfin | Spotify | MusicBee | YouTube | Movies |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Jellyfin](./icons/custom-folder-jellyfin.svg) | ![Spotify](./icons/custom-folder-spotify.svg) |  ![MusicBee](./icons/custom-folder-musicbee.svg) |![YouTube](./icons/custom-folder-youtube.svg) | ![Movies](./icons/custom-folder-movies.svg) |
 
 ### Media 2
-| Music | HakuNeko | Torrents | Calibre | TinyMediaManager |
-| :---: | :---: | :---: | :---: | :---: |
-| ![Music](./icons/custom-folder-music.svg) | ![HakuNeko](./icons/custom-folder-hakuneko.svg) |  ![Torrents](./icons/custom-folder-torrent.svg) | ![Calibre](./icons/custom-folder-calibre.svg) | ![TinyMediaManager](./icons/custom-folder-tmm.svg) |
+| Books | Music | HakuNeko | Torrents | Calibre | TinyMediaManager |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Books](./icons/custom-folder-books.svg) | ![Music](./icons/custom-folder-music.svg) | ![HakuNeko](./icons/custom-folder-hakuneko.svg) |  ![Torrents](./icons/custom-folder-torrent.svg) | ![Calibre](./icons/custom-folder-calibre.svg) | ![TinyMediaManager](./icons/custom-folder-tmm.svg) |
 
 ### Storage
 | Dropbox | GoogleDrive | Obsidian | Obs. Exports | Obs. Imports |
