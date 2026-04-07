@@ -56,8 +56,7 @@ Cyan, Magenta, Yellow
 | :---: | :---: | :---: |
 | ![Cyan](./icons/custom-folder-color-cyan.svg) | ![Magenta](./icons/custom-folder-color-magenta.svg) | ![Yellow](./icons/custom-folder-color-yellow.svg) |
 
-
-### Colors & Patterns (experimental)
+Patterns (experimental)
 | Rainbow | Mondrian | Chess | Camouflage |
 | :---: | :---: | :---: | :---: |
 | ![Rainbow](./icons/custom-folder-rainbow.svg) | ![Mondrian](./icons/custom-folder-mondrian.svg) | ![Chess](./icons/custom-folder-chess.svg) | ![Camouflage](./icons/custom-folder-camouflage.svg) |
