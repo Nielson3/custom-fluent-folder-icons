@@ -47,9 +47,15 @@ A collection of custom SVG icons I made in InkScape, based on the [Fluent Icon T
 ### Colors
 The default folder colors in the Fluent theme are: blue, red, yellow, purple, pink, orange, grey, and green. Here are some others:
 
-| aurora | cyan | frost | grass | lemon | sand | solarized | teal | wine |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![Aurora](./icons/custom-folder-aurora.svg) | ![cyan](./icons/custom-folder-cyan.svg) | ![frost](./icons/custom-folder-frost.svg) | ![grass](./icons/custom-folder-grass.svg) | ![lemon](./icons/custom-folder-lemon.svg) | ![sand](./icons/custom-folder-sand.svg) | ![Solarized](./icons/custom-folder-solarized.svg) | ![teal](./icons/custom-folder-teal.svg) | ![wine](./icons/custom-folder-wine.svg) |
+| aurora | frost | grass | lemon | sand | solarized | teal | wine |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Aurora](./icons/custom-folder-color-aurora.svg) | ![frost](./icons/custom-folder-color-frost.svg) | ![grass](./icons/custom-folder-color-grass.svg) | ![lemon](./icons/custom-folder-color-lemon.svg) | ![sand](./icons/custom-folder-color-sand.svg) | ![Solarized](./icons/custom-folder-color-solarized.svg) | ![teal](./icons/custom-folder-color-teal.svg) | ![wine](./icons/custom-folder-color-wine.svg) |
+
+Cyan, Magenta, Yellow
+| Cyan | Magenta | Yellow |
+| :---: | :---: | :---: |
+| ![Cyan](./icons/custom-folder-color-cyan.svg) | ![Magenta](./icons/custom-folder-color-magenta.svg) | ![Yellow](./icons/custom-folder-color-yellow.svg) |
+
 
 ### Colors & Patterns (experimental)
 | Rainbow | Mondrian | Chess | Camouflage |
