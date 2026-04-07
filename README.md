@@ -17,22 +17,22 @@ A collection of custom SVG icons I made in InkScape, based on the [Fluent Icon T
 ### Media 1
 | Jellyfin | Spotify | Youtube | Movies | MusicBee | TinyMediaManager |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![Jellyfin](./icons/custom-folder-jellyfin.svg) | ![Spotify](./icons/custom-folder-spotify.svg) | ![Youtube](./icons/custom-folder-youtube.svg) | ![Movies](./icons/custom-folder-movies.svg) | ![MusicBee](./icons/custom-folder-musicbee.svg) | ![TinyMediaManager](./icons/custom-folder-tinymediamanager.svg) |
+| ![Jellyfin](./icons/custom-folder-jellyfin.svg) | ![Spotify](./icons/custom-folder-spotify.svg) | ![Youtube](./icons/custom-folder-youtube.svg) | ![Movies](./icons/custom-folder-movies.svg) | ![MusicBee](./icons/custom-folder-musicbee.svg) | ![TinyMediaManager](./icons/custom-folder-tmm.svg) |
 
 ### Media 2
 | Books | Calibre | Torrents | HakuNeko | Comics | Manga |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![Books](./icons/custom-folder-books.svg) | ![Calibre](./icons/custom-folder-calibre.svg) | ![Torrents](./icons/custom-folder-torrents.svg) | ![HakuNeko](./icons/custom-folder-hakuneko.svg) | ![Comics](./icons/custom-folder-comics.svg) | ![Manga](./icons/custom-folder-manga.svg) |
+| ![Books](./icons/custom-folder-books.svg) | ![Calibre](./icons/custom-folder-calibre.svg) | ![Torrents](./icons/custom-folder-torrent.svg) | ![HakuNeko](./icons/custom-folder-hakuneko.svg) | ![Comics](./icons/custom-folder-comic.svg) | ![Manga](./icons/custom-folder-manga.svg) |
 
 ### Storage
 | Dropbox | GoogleDrive | Obsidian | Obs. import | Obs. export |
 | :---: | :---: | :---: | :---: | :---: |
-| ![Dropbox](./icons/custom-folder-dropbox.svg) | ![GoogleDrive](./icons/custom-folder-googledrive.svg) | ![Obsidian](./icons/custom-folder-obsidian.svg) | ![Obs. import](./icons/custom-folder-obsidian-import.svg) | ![Obs. export](./icons/custom-folder-obsidian-export.svg) |
+| ![Dropbox](./icons/custom-folder-dropbox.svg) | ![GoogleDrive](./icons/custom-folder-google-drive.svg) | ![Obsidian](./icons/custom-folder-obsidian.svg) | ![Obs. import](./icons/custom-folder-obsidian-imports.svg) | ![Obs. export](./icons/custom-folder-obsidian-exports.svg) |
 
 ### Gaming
 | Games | Steam | Unity | Emulation | MelonDS | mGBA | Pokemon |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![Games](./icons/custom-folder-games.svg) | ![Steam](./icons/custom-folder-steam.svg) | ![Unity](./icons/custom-folder-unity.svg) | ![Emulation](./icons/custom-folder-emulation.svg) | ![MelonDS](./icons/custom-folder-melonds.svg) | ![mGBA](./icons/custom-folder-mgba.svg) | ![Pokemon](./icons/custom-folder-pokemon.svg) |
+| ![Games](./icons/custom-folder-games.svg) | ![Steam](./icons/custom-folder-steam.svg) | ![Unity](./icons/custom-folder-unity.svg) | ![Emulation](./icons/custom-folder-emulation.svg) | ![MelonDS](./icons/custom-folder-melonDS.svg) | ![mGBA](./icons/custom-folder-mGBA.svg) | ![Pokemon](./icons/custom-folder-pokemon.svg) |
 
 ### Other 1
 | Coding | Python | Flatpak | AppImage | Github |
