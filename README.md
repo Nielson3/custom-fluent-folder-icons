@@ -59,7 +59,7 @@ Cyan, Magenta, Yellow
 Patterns (experimental)
 | Rainbow | Mondrian | Chess | Camouflage | Go Board | Hitomezashi |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![Rainbow](./icons/custom-folder-rainbow.svg) | ![Mondrian](./icons/custom-folder-mondrian.svg) | ![Chess](./icons/custom-folder-chess.svg) | ![Camouflage](./icons/custom-folder-camouflage.svg) | ![Go Board](./icons/custom-goboard.svg) | ![Hitomezashi](./icons/custom-folder-hitomezashi.svg) |
+| ![Rainbow](./icons/custom-folder-rainbow.svg) | ![Mondrian](./icons/custom-folder-mondrian.svg) | ![Chess](./icons/custom-folder-chess.svg) | ![Camouflage](./icons/custom-folder-camouflage.svg) | ![Go Board](./icons/custom-folder-goboard.svg) | ![Hitomezashi](./icons/custom-folder-hitomezashi.svg) |
 
 ## Download
 Click on the icon you want, or zip the entire icons directory to download them all. 
