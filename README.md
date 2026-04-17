@@ -5,9 +5,9 @@ A collection of custom SVG icons I made in InkScape, based on the [Fluent Icon T
 ## Preview
 
 ### Common Categories
-| Downloads | Documents | Pictures | Music | Temporary | Personal |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| ![Downloads](./icons/custom-folder-downloads.svg) | ![Documents](./icons/custom-folder-documents.svg) | ![Pictures](./icons/custom-folder-pictures.svg) | ![Music](./icons/custom-folder-music.svg) | ![Temporary](./icons/custom-folder-temporary.svg) | ![Personal](./icons/custom-folder-personal.svg) |
+| Downloads | Documents | Pictures | Music | Videos | Temporary | Personal |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Downloads](./icons/custom-folder-downloads.svg) | ![Documents](./icons/custom-folder-documents.svg) | ![Pictures](./icons/custom-folder-pictures.svg) | ![Music](./icons/custom-folder-music.svg) | ![Videos](./icons/custom-folder-videos.svg) | ![Temporary](./icons/custom-folder-temporary.svg) | ![Personal](./icons/custom-folder-personal.svg) |
 
 ### Creative
 | Art | Fonts | Writing | Gimp | Inkscape | Blender | Brushes |
@@ -35,14 +35,14 @@ A collection of custom SVG icons I made in InkScape, based on the [Fluent Icon T
 | ![Games](./icons/custom-folder-games.svg) | ![Steam](./icons/custom-folder-steam.svg) | ![Unity](./icons/custom-folder-unity.svg) | ![Emulation](./icons/custom-folder-emulation.svg) | ![MelonDS](./icons/custom-folder-melonDS.svg) | ![mGBA](./icons/custom-folder-mGBA.svg) | ![Pokemon](./icons/custom-folder-pokemon.svg) |
 
 ### Other 1
-| Coding | Python | Flatpak | AppImage | Github |
-| :---: | :---: | :---: | :---: | :---: |
-| ![Coding](./icons/custom-folder-coding.svg) | ![Python](./icons/custom-folder-python.svg) | ![Flatpak](./icons/custom-folder-flatpak.svg) | ![AppImage](./icons/custom-folder-appimage.svg) | ![Github](./icons/custom-folder-github.svg) |
+| Coding | Python | Flatpak | AppImage | Github | Scans |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Coding](./icons/custom-folder-coding.svg) | ![Python](./icons/custom-folder-python.svg) | ![Flatpak](./icons/custom-folder-flatpak.svg) | ![AppImage](./icons/custom-folder-appimage.svg) | ![Github](./icons/custom-folder-github.svg) | ![Scans](./icons/custom-folder-scans.svg) |
 
 ### Other 2
-| XnConvert | MuseScore | FreeCad | VirtualBox | Reddit |
-| :---: | :---: | :---: | :---: | :---: |
-| ![XnConvert](./icons/custom-folder-xnconvert.svg) | ![MuseScore](./icons/custom-folder-musescore.svg) | ![FreeCad](./icons/custom-folder-freecad.svg) | ![VirtualBox](./icons/custom-folder-virtualbox.svg) | ![Reddit](./icons/custom-folder-reddit.svg) |
+| XnConvert | MuseScore | FreeCad | VirtualBox | Reddit | yt-dlp |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| ![XnConvert](./icons/custom-folder-xnconvert.svg) | ![MuseScore](./icons/custom-folder-musescore.svg) | ![FreeCad](./icons/custom-folder-freecad.svg) | ![VirtualBox](./icons/custom-folder-virtualbox.svg) | ![Reddit](./icons/custom-folder-reddit.svg) | ![yt-dlp](./icons/custom-folder-yt-dlp.svg) |
 
 ### Colors
 The default folder colors in the Fluent theme are: blue, red, yellow, purple, pink, orange, grey, and green. Here are some others:
@@ -57,9 +57,9 @@ Cyan, Magenta, Yellow
 | ![Cyan](./icons/custom-folder-color-cyan.svg) | ![Magenta](./icons/custom-folder-color-magenta.svg) | ![Yellow](./icons/custom-folder-color-yellow.svg) |
 
 Patterns (experimental)
-| Rainbow | Mondrian | Chess | Camouflage |
-| :---: | :---: | :---: | :---: |
-| ![Rainbow](./icons/custom-folder-rainbow.svg) | ![Mondrian](./icons/custom-folder-mondrian.svg) | ![Chess](./icons/custom-folder-chess.svg) | ![Camouflage](./icons/custom-folder-camouflage.svg) |
+| Rainbow | Mondrian | Chess | Camouflage | Go Board | Hitomezashi |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Rainbow](./icons/custom-folder-rainbow.svg) | ![Mondrian](./icons/custom-folder-mondrian.svg) | ![Chess](./icons/custom-folder-chess.svg) | ![Camouflage](./icons/custom-folder-camouflage.svg) | ![Go Board](./icons/custom-goboard.svg) | ![Hitomezashi](./icons/custom-folder-hitomezashi.svg) |
 
 ## Download
 Click on the icon you want, or zip the entire icons directory to download them all. 
