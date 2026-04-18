@@ -40,9 +40,9 @@ A collection of custom SVG icons I made in InkScape, based on the [Fluent Icon T
 | ![Arch](./icons/custom-folder-linux-arch.svg) | ![Debian](./icons/custom-folder-linux-debian.svg) | ![Mint](./icons/custom-folder-linux-mint.svg) | ![Fedora](./icons/custom-folder-linux-fedora.svg) | ![Ubuntu](./icons/custom-folder-linux-ubuntu.svg) |
 
 ### Linux Distros 2
-| Elementary | Manjaro | OpenSUSE | PopOS | ZorinOS |
+| OpenSUSE | Elementary | Manjaro | PopOS | ZorinOS |
 | :---: | :---: | :---: | :---: | :---: |
-| ![Elementary](./icons/custom-folder-linux-elementary.svg) | ![Manjaro](./icons/custom-folder-linux-manjaro.svg) | ![OpenSUSE](./icons/custom-folder-linux-openSUSE.svg) | ![PopOS](./icons/custom-folder-linux-popOS.svg) | ![ZorinOS](./icons/custom-folder-linux-zorin.svg) |
+| ![OpenSUSE](./icons/custom-folder-linux-openSUSE.svg) | ![Elementary](./icons/custom-folder-linux-elementary.svg) | ![Manjaro](./icons/custom-folder-linux-manjaro.svg) | ![PopOS](./icons/custom-folder-linux-popOS.svg) | ![ZorinOS](./icons/custom-folder-linux-zorin.svg) |
 
 ### Other 1
 | Coding | Python | Flatpak | AppImage | Github | Scans |
