@@ -34,6 +34,16 @@ A collection of custom SVG icons I made in InkScape, based on the [Fluent Icon T
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ![Games](./icons/custom-folder-games.svg) | ![Steam](./icons/custom-folder-steam.svg) | ![Unity](./icons/custom-folder-unity.svg) | ![Emulation](./icons/custom-folder-emulation.svg) | ![MelonDS](./icons/custom-folder-melonDS.svg) | ![mGBA](./icons/custom-folder-mGBA.svg) | ![Pokemon](./icons/custom-folder-pokemon.svg) |
 
+### Linux Distros 1
+| Arch | Debian | Mint | Fedora | Ubuntu |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Arch](./icons/custom-folder-linux-arch.svg) | ![Debian](./icons/custom-folder-linux-debian.svg) | ![Mint](./icons/custom-folder-linux-mint.svg) | ![Fedora](./icons/custom-folder-linux-fedora.svg) | ![Ubuntu](./icons/custom-folder-linux-ubuntu.svg) |
+
+### Linux Distros 2
+| Elementary | Manjaro | OpenSUSE | PopOS | ZorinOS |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Elementary](./icons/custom-folder-linux-elementary.svg) | ![Manjaro](./icons/custom-folder-linux-manjaro.svg) | ![OpenSUSE](./icons/custom-folder-linux-openSUSE.svg) | ![PopOS](./icons/custom-folder-linux-popOS.svg) | ![ZorinOS](./icons/custom-folder-linux-zorin.svg) |
+
 ### Other 1
 | Coding | Python | Flatpak | AppImage | Github | Scans |
 | :---: | :---: | :---: | :---: | :---: | :---: |
