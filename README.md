@@ -3,7 +3,9 @@
 A collection of custom SVG icons I made in InkScape, based on the [Fluent Icon Theme](https://github.com/vinceliuice/Fluent-icon-theme) by [vinceliuice](https://github.com/vinceliuice). If I make any more in the future, they will be added here. 
 
 ## Preview
+![image](./folder_icons_preview.png)
 
+## By Category
 ### Common Categories
 | Downloads | Documents | Pictures | Music | Videos | Temporary | Personal |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
