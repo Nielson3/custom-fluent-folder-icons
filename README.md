@@ -59,7 +59,7 @@ A collection of custom SVG icons I made in InkScape, based on the [Fluent Icon T
 ### Other 2
 | XnConvert | MuseScore | FreeCAD | KiCad | VirtualBox | Reddit | yt-dlp | OCR |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![XnConvert](./icons/custom-folder-xnconvert.svg) | ![MuseScore](./icons/custom-folder-musescore.svg) | ![FreeCAD](./icons/custom-folder-freecad.svg) | ![KiCad](./icons/custom-folder-KiCad.svg) | ![VirtualBox](./icons/custom-folder-virtualbox.svg) | ![Reddit](./icons/custom-folder-reddit.svg) | ![yt-dlp](./icons/custom-folder-yt-dlp.svg) | ![OCR](./icons/custom-folder-ocr.svg) |
+| ![XnConvert](./icons/custom-folder-xnconvert.svg) | ![MuseScore](./icons/custom-folder-musescore.svg) | ![FreeCAD](./icons/custom-folder-freecad.svg) | ![KiCad](./icons/custom-folder-kiCad.svg) | ![VirtualBox](./icons/custom-folder-virtualbox.svg) | ![Reddit](./icons/custom-folder-reddit.svg) | ![yt-dlp](./icons/custom-folder-yt-dlp.svg) | ![OCR](./icons/custom-folder-ocr.svg) |
 
 ### Colors
 The default folder colors in the Fluent theme are: blue, red, yellow, purple, pink, orange, grey, and green. Here are some others:
