@@ -52,14 +52,14 @@ A collection of custom SVG icons I made in InkScape, based on the [Fluent Icon T
 | ![Android](./icons/custom-folder-android.svg) | ![iOS](./icons/custom-folder-iOS.svg) | ![macOS](./icons/custom-folder-macOS.svg) | ![Windows](./icons/custom-folder-windows.svg) |
 
 ### Other 1
-| Coding | Python | Flatpak | AppImage | Github | Scans | Text-to-Speech |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![Coding](./icons/custom-folder-coding.svg) | ![Python](./icons/custom-folder-python.svg) | ![Flatpak](./icons/custom-folder-flatpak.svg) | ![AppImage](./icons/custom-folder-appimage.svg) | ![Github](./icons/custom-folder-github.svg) | ![Scans](./icons/custom-folder-scans.svg) | ![Text-to-Speech](./icons/custom-folder-text-to-speech.svg) |
+| Coding | Python | Flatpak | AppImage | Github | Scans | Text-to-Speech | Instagram |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Coding](./icons/custom-folder-coding.svg) | ![Python](./icons/custom-folder-python.svg) | ![Flatpak](./icons/custom-folder-flatpak.svg) | ![AppImage](./icons/custom-folder-appimage.svg) | ![Github](./icons/custom-folder-github.svg) | ![Scans](./icons/custom-folder-scans.svg) | ![Text-to-Speech](./icons/custom-folder-text-to-speech.svg) | ![instagram](./icons/custom-folder-instagram.svg) |
 
 ### Other 2
-| XnConvert | MuseScore | FreeCAD | VirtualBox | Reddit | yt-dlp | OCR |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![XnConvert](./icons/custom-folder-xnconvert.svg) | ![MuseScore](./icons/custom-folder-musescore.svg) | ![FreeCAD](./icons/custom-folder-freecad.svg) | ![VirtualBox](./icons/custom-folder-virtualbox.svg) | ![Reddit](./icons/custom-folder-reddit.svg) | ![yt-dlp](./icons/custom-folder-yt-dlp.svg) | ![OCR](./icons/custom-folder-ocr.svg) |
+| XnConvert | MuseScore | FreeCAD | KiCad | VirtualBox | Reddit | yt-dlp | OCR |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![XnConvert](./icons/custom-folder-xnconvert.svg) | ![MuseScore](./icons/custom-folder-musescore.svg) | ![FreeCAD](./icons/custom-folder-freecad.svg) | ![KiCad](./icons/custom-folder-KiCad.svg) | ![VirtualBox](./icons/custom-folder-virtualbox.svg) | ![Reddit](./icons/custom-folder-reddit.svg) | ![yt-dlp](./icons/custom-folder-yt-dlp.svg) | ![OCR](./icons/custom-folder-ocr.svg) |
 
 ### Colors
 The default folder colors in the Fluent theme are: blue, red, yellow, purple, pink, orange, grey, and green. Here are some others:
@@ -74,9 +74,9 @@ Cyan, Magenta, Yellow
 | ![Cyan](./icons/custom-folder-color-cyan.svg) | ![Magenta](./icons/custom-folder-color-magenta.svg) | ![Yellow](./icons/custom-folder-color-yellow.svg) |
 
 Patterns (experimental)
-| Rainbow | Mondrian | Chess | Camouflage | Go Board | Hitomezashi |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| ![Rainbow](./icons/custom-folder-rainbow.svg) | ![Mondrian](./icons/custom-folder-mondrian.svg) | ![Chess](./icons/custom-folder-chess.svg) | ![Camouflage](./icons/custom-folder-camouflage.svg) | ![Go Board](./icons/custom-folder-goboard.svg) | ![Hitomezashi](./icons/custom-folder-hitomezashi.svg) |
+| Rainbow | Mondrian | Chess | Camouflage | Go Board | Hitomezashi | Piano |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Rainbow](./icons/custom-folder-rainbow.svg) | ![Mondrian](./icons/custom-folder-mondrian.svg) | ![Chess](./icons/custom-folder-chess.svg) | ![Camouflage](./icons/custom-folder-camouflage.svg) | ![Go Board](./icons/custom-folder-goboard.svg) | ![Hitomezashi](./icons/custom-folder-hitomezashi.svg) | ![Piano](./icons/custom-folder-piano.svg) |
 
 ## Download
 Click on the icon you want, or zip the entire icons directory to download them all. 
