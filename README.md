@@ -12,9 +12,9 @@ A collection of custom SVG icons I made in InkScape, based on the [Fluent Icon T
 | ![Downloads](./icons/custom-folder-downloads.svg) | ![Documents](./icons/custom-folder-documents.svg) | ![Pictures](./icons/custom-folder-pictures.svg) | ![Music](./icons/custom-folder-music.svg) | ![Videos](./icons/custom-folder-videos.svg) | ![Temporary](./icons/custom-folder-temporary.svg) | ![Personal](./icons/custom-folder-personal.svg) |
 
 ### Creative
-| Art | Fonts | Writing | Gimp | Inkscape | Blender | Brushes |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![Art](./icons/custom-folder-art.svg) | ![Fonts](./icons/custom-folder-fonts.svg) | ![Writing](./icons/custom-folder-writing.svg) | ![Gimp](./icons/custom-folder-gimp.svg) | ![Inkscape](./icons/custom-folder-inkscape.svg) | ![Blender](./icons/custom-folder-blender.svg) | ![Brushes](./icons/custom-folder-brushes.svg) |
+| Art | Fonts | Writing | Gimp | Inkscape | Blender | Brushes | Chronicler |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Art](./icons/custom-folder-art.svg) | ![Fonts](./icons/custom-folder-fonts.svg) | ![Writing](./icons/custom-folder-writing.svg) | ![Gimp](./icons/custom-folder-gimp.svg) | ![Inkscape](./icons/custom-folder-inkscape.svg) | ![Blender](./icons/custom-folder-blender.svg) | ![Brushes](./icons/custom-folder-brushes.svg) | ![Chronicler](./icons/custom-folder-chronicler.svg) |
 
 ### Media 1
 | Jellyfin | Spotify | Youtube | Movies | MusicBee | TinyMediaManager |
