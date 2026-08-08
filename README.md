@@ -3,7 +3,8 @@
 A collection of custom SVG icons I made in InkScape, based on the [Fluent Icon Theme](https://github.com/vinceliuice/Fluent-icon-theme) by [vinceliuice](https://github.com/vinceliuice). If I make any more in the future, they will be added here. 
 
 ## Preview
-![image](./folder_icons_preview.png)
+![image](./icons_preview1.png)
+![image](./icons_preview2.png)
 
 ## By Category
 
