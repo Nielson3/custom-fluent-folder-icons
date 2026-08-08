@@ -50,7 +50,7 @@ A collection of custom SVG icons I made in InkScape, based on the [Fluent Icon T
 ### Video & Streaming
 | Jellyfin | Movies | OBS-studio | Youtube | TinyMediaManager |
 | :---: | :---: | :---: | :---: | :---: |
-| ![Jellyfin](./icons/custom-folder-jellyfin.svg) | ![Movies](./icons/custom-folder-movies.svg) | ![OBS-studio](./icons/custom-folder-obs.svg) | ![Youtube](./icons/custom-folder-youtube.svg) | ![TinyMediaManager](./icons/custom-folder-tmm.svg) |
+| ![Jellyfin](./icons/custom-folder-jellyfin.svg) | ![Movies](./icons/custom-folder-movies.svg) | ![OBS-studio](./icons/custom-folder-obs-studio.svg) | ![Youtube](./icons/custom-folder-youtube.svg) | ![TinyMediaManager](./icons/custom-folder-tmm.svg) |
 
 ### Books, Comics & Manga
 | Books | Calibre | Comics | Manga | HakuNeko |
@@ -65,7 +65,7 @@ A collection of custom SVG icons I made in InkScape, based on the [Fluent Icon T
 ### Software Development
 | Coding | Github | Python | Visual Studio Code | VSCodium |
 | :---: | :---: | :---: | :---: | :---: |
-| ![Coding](./icons/custom-folder-coding.svg) | ![Github](./icons/custom-folder-github.svg) | ![Python](./icons/custom-folder-python.svg) | ![Visual Studio Code](./icons/custom-folder-vscode.svg) | ![VSCodium](./icons/custom-folder-vscodium.svg) |
+| ![Coding](./icons/custom-folder-coding.svg) | ![Github](./icons/custom-folder-github.svg) | ![Python](./icons/custom-folder-python.svg) | ![Visual Studio Code](./icons/custom-folder-visual-studio-code.svg) | ![VSCodium](./icons/custom-folder-vscodium.svg) |
 
 ### Game Development
 | Godot | Pygame | Unity |
