@@ -118,12 +118,12 @@ A collection of custom SVG icons I made in InkScape, based on the [Fluent Icon T
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | ![Cyan](./icons/custom-folder-color-cyan.svg) | ![Magenta](./icons/custom-folder-color-magenta.svg) | ![Yellow](./icons/custom-folder-color-yellow.svg) | ![solarized](./icons/custom-folder-color-solarized.svg) | ![teal](./icons/custom-folder-color-teal.svg) | ![wine](./icons/custom-folder-color-wine.svg) |
 
-### Patterns 1
+### Patterns 1 (experimental!)
 | Camouflage | Chess | Go Board | Mondrian | Rainbow |
 | :---: | :---: | :---: | :---: | :---: |
 | ![Camouflage](./icons/custom-folder-camouflage.svg) | ![Chess](./icons/custom-folder-chess.svg) | ![Go Board](./icons/custom-folder-goboard.svg) | ![Mondrian](./icons/custom-folder-mondrian.svg) | ![Rainbow](./icons/custom-folder-rainbow.svg) |
 
-### Patterns 2
+### Patterns 2 (experimental!)
 | Glass | Hitomezashi | Lego | Piano | World Map |
 | :---: | :---: | :---: | :---: | :---: |
 | ![Glass](./icons/custom-folder-glass.svg) | ![Hitomezashi](./icons/custom-folder-hitomezashi.svg) | ![Lego](./icons/custom-folder-lego.svg) | ![Piano](./icons/custom-folder-piano.svg) | ![World Map](./icons/custom-folder-worldmap.svg) |
