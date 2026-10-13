@@ -109,7 +109,7 @@ A collection of custom SVG icons I made in InkScape, based on the [Fluent Icon T
 | ![Torrents](./icons/custom-folder-torrent.svg) | ![yt-dlp](./icons/custom-folder-yt-dlp.svg) | ![JDownloader](./icons/custom-folder-jdownloader.svg) | ![QBittorrent](./icons/custom-folder-qbittorrent.svg) | ![UTorrent](./icons/custom-folder-utorrent.svg) | ![Persepolis](./icons/custom-folder-persepolis.svg) | ![Internet Archive](./icons/custom-folder-internet-archive.svg) |
 
 ### Pop Culture & Media
-| One Piece | Pokemon | MagicTheGathering |
+| One Piece | Pokemon | MTG |
 | :---: | :---: | :---: |
 | ![One Piece](./icons/custom-folder-one-piece.svg) | ![Pokemon](./icons/custom-folder-pokemon.svg) |  ![MTG](./icons/custom-folder-MagicTheGathering.svg) | 
 
