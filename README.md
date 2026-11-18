@@ -54,7 +54,7 @@ A collection of custom SVG icons I made in InkScape, based on the [Fluent Icon T
 
 ### Audio & Music
 | Spotify | MusicBee | MuseScore | Navidrome | Audiobooks |
-| :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: | :---: |
 | ![Spotify](./icons/custom-folder-spotify.svg) | ![MusicBee](./icons/custom-folder-musicbee.svg) | ![MuseScore](./icons/custom-folder-musescore.svg) | ![Navidrome](./icons/custom-folder-navidrome.svg) | ![Audiobooks](./icons/custom-folder-audiobooks.svg) |
 
 ### Video & Streaming
