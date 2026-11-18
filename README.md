@@ -73,7 +73,7 @@ A collection of custom SVG icons I made in InkScape, based on the [Fluent Icon T
 | ![Games](./icons/custom-folder-games.svg) | ![Steam](./icons/custom-folder-steam.svg) | ![Emulation](./icons/custom-folder-emulation.svg) | ![MelonDS](./icons/custom-folder-melonDS.svg) | ![mGBA](./icons/custom-folder-mGBA.svg) | ![Dolphin](./icons/custom-folder-dolphin-emu.svg) |
 
 ### Software Development
-| Coding | Github | Python | Visual Studio Code | VSCodium |
+| Coding | Github | Python | VS Code | VSCodium |
 | :---: | :---: | :---: | :---: | :---: |
 | ![Coding](./icons/custom-folder-coding.svg) | ![Github](./icons/custom-folder-github.svg) | ![Python](./icons/custom-folder-python.svg) | ![Visual Studio Code](./icons/custom-folder-visual-studio-code.svg) | ![VSCodium](./icons/custom-folder-vscodium.svg) |
 
