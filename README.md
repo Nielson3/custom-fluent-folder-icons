@@ -18,9 +18,9 @@ A collection of custom SVG icons I made in InkScape, based on the [Fluent Icon T
 | ![Downloads](./icons/custom-folder-downloads.svg) | ![Documents](./icons/custom-folder-documents.svg) | ![Music](./icons/custom-folder-music.svg) | ![Videos](./icons/custom-folder-videos.svg) | ![Pictures](./icons/custom-folder-pictures.svg) |
 
 ### System & Standard Folders 2
-| Screenshots | Personal | Temporary |
-| :---: | :---: | :---: |
-| ![Screenshots](./icons/custom-folder-screenshots.svg) | ![Personal](./icons/custom-folder-personal.svg) | ![Temporary](./icons/custom-folder-temporary.svg) |
+| Screenshots | Personal | Temporary | Printer | Printer (symbolic) |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Screenshots](./icons/custom-folder-screenshots.svg) | ![Personal](./icons/custom-folder-personal.svg) | ![Temporary](./icons/custom-folder-temporary.svg) | ![Printer](./icons/custom-folder-printer.svg) | ![Printer-symbolic](./icons/custom-folder-printer-symbolic.svg) |
 
 ### 2D Art & Graphics
 | Art | Brushes | Gimp | Inkscape |
@@ -53,9 +53,9 @@ A collection of custom SVG icons I made in InkScape, based on the [Fluent Icon T
 | ![Dropbox](./icons/custom-folder-dropbox.svg) | ![GoogleDrive](./icons/custom-folder-google-drive.svg) | ![ProtonDrive](./icons/custom-folder-protondrive.svg) |
 
 ### Audio & Music
-| Spotify | MusicBee | MuseScore | Navidrome |
+| Spotify | MusicBee | MuseScore | Navidrome | Audiobooks |
 | :---: | :---: | :---: | :---: |
-| ![Spotify](./icons/custom-folder-spotify.svg) | ![MusicBee](./icons/custom-folder-musicbee.svg) | ![MuseScore](./icons/custom-folder-musescore.svg) | ![Navidrome](./icons/custom-folder-navidrome.svg) |
+| ![Spotify](./icons/custom-folder-spotify.svg) | ![MusicBee](./icons/custom-folder-musicbee.svg) | ![MuseScore](./icons/custom-folder-musescore.svg) | ![Navidrome](./icons/custom-folder-navidrome.svg) | ![Audiobooks](./icons/custom-folder-audiobooks.svg) |
 
 ### Video & Streaming
 | Jellyfin | Movies | OBS-studio | Youtube | TinyMediaManager | VLC |
@@ -115,7 +115,22 @@ A collection of custom SVG icons I made in InkScape, based on the [Fluent Icon T
 ### Pop Culture & Media
 | One Piece | Pokemon | MTG |
 | :---: | :---: | :---: |
-| ![One Piece](./icons/custom-folder-one-piece.svg) | ![Pokemon](./icons/custom-folder-pokemon.svg) |  ![MTG](./icons/custom-folder-MagicTheGathering.svg) | 
+| ![One Piece](./icons/custom-folder-one-piece.svg) | ![Pokemon](./icons/custom-folder-pokemon.svg) |  ![MTG](./icons/custom-folder-MagicTheGathering.svg) |
+
+### Games
+| Minecraft | Balatro | GTA | Assassin's Creed |
+| :---: | :---: | :---: | :---: |
+| ![Minecraft](./icons/custom-folder-minecraft.svg) | ![Balatro](./icons/custom-folder-balatro.svg) |  ![GTA](./icons/custom-folder-GTA.svg) |  ![GTA](./icons/custom-folder-Assassins_Creed.svg) |
+
+### AI tools
+| ArtCraft | VoiceStudio |
+| :---: | :---: |
+| ![ArtCraft](./icons/custom-folder-artcraft.svg) | ![VoiceStudio](./icons/custom-folder-voicestudio.svg) |
+
+### Metal
+| Lock | Zipper |
+| :---: | :---: |
+| ![Locked](./icons/custom-folder-locked.svg) | ![Zipper](./icons/custom-folder-zipper.svg) |
 
 ### Color Themes 1
 | aurora | frost | grass | lemon | sand |
@@ -138,9 +153,9 @@ A collection of custom SVG icons I made in InkScape, based on the [Fluent Icon T
 | ![Glass](./icons/custom-folder-glass.svg) | ![Hitomezashi](./icons/custom-folder-hitomezashi.svg) | ![Lego](./icons/custom-folder-lego.svg) | ![Piano](./icons/custom-folder-piano.svg) | ![World Map](./icons/custom-folder-worldmap.svg) |
 
 ### Patterns 3 (experimental!)
-| Ink | Sheet music |
-| :---: | :---: |
-| ![Ink](./icons/custom-folder-dripping-ink.svg) | ![Sheet Music](./icons/custom-folder-sheet-music.svg) |
+| Ink | Sheet music | Frutiger-Aero | Illusion | Paint |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Ink](./icons/custom-folder-dripping-ink.svg) | ![Sheet Music](./icons/custom-folder-sheet-music.svg) | ![Frutiger-Aero](./icons/custom-folder-frutiger-aero.svg) | ![Illusion](./icons/custom-folder-illusion.svg) | ![Paint](./icons/custom-folder-paint.svg) |
 
 ## Download
 Click on the icon you want, or zip the entire icons directory to download them all. 
