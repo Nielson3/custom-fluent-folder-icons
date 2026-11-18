@@ -7,6 +7,9 @@ A collection of custom SVG icons I made in InkScape, based on the [Fluent Icon T
 | :---: | :---: |
 | ![image](./preview_all.png) | ![image](./preview_all_light_mode.png) |
 
+### Additions 2026-11-18
+![image](./preview_additions1.png)
+
 ## By Category
 
 ### System & Standard Folders 1
